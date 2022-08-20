@@ -18,4 +18,4 @@ class Student < User
 
 end
 
-ebbe =Student.new
+geo =Student.new
